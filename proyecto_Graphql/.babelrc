@@ -1,0 +1,5 @@
+{"presets":[//Creamos el objeto 
+    "@babel/preset-env"//Para indicarle que vamos a utilizar las ultimas versiones de javaScript
+]
+
+}
